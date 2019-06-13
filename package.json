@@ -1,0 +1,13 @@
+{
+  "name": "ui5-test-project",
+  "main": "App.js",
+  "description": "ui5 test project",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "devDependencies": {
+    "@openui5/ts-types": "*",
+    "eslint": "*",
+    "@sap/eslint-plugin-ui5-jsdocs": "*"
+  }
+}
